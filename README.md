@@ -5,8 +5,7 @@ Web scraping allows you to fetch data from a web page.
 Data is fetch by parsing through the HTML code of the website. 
 Scraping is used when a Website doesnot allow the API calling.
 
-Before scraping through a website first consult the robots.txt file.
-https://www.example.com/robots.txt
+Before scraping through a website first consult the robots.txt file, like this """https://www.example.com/robots.txt""" because some websites don't want anyone to scrap their data. 
 
 
-yghzbyghAJHABJHB
+
