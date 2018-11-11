@@ -24,5 +24,6 @@ Where response.text is <<response = requests.get("https://www.rithmschool.com/bl
 >>>soup.find_all("article") it will parse all the article tag data.
 >>>"with open("Blog_Data.csv", "w") as csv_file:" it will create a new CSV file named Blog_Data.csv with Write mode.
 
-### This project Can be used to fetch different type of data from the WEBSITES which dont allow you API calling
+### This project Can be used to fetch different type of data from the WEBSITES which dont allow you API calling 
+### Web Scraping can be done by building a Web Crawler as well.
 
