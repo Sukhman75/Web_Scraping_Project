@@ -13,7 +13,7 @@ Scope:
      >>> Grab all links 
      >>> Store the Link, anchor Tag text and Date.
 
-BeautifulSoap from bs4 package allows us to navigate thorugh HTML in python.
+BeautifulSoup from bs4 package allows us to navigate thorugh HTML in python.
 >>> we first have to install bs4, use this command to install the package: "python -m pip install bs4"
 >>> type : "from bs4 import BeautifulSoup" to use BeautifulSoap.
 Use "from csv import writer" to import "Writer" from the "CSV" package.
